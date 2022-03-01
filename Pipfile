@@ -7,3 +7,5 @@ name = "pypi"
 xmltotabular = "*"
 
 [dev-packages]
+black = "*"
+flake8 = "*"
